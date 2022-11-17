@@ -28,10 +28,10 @@ Lab 5b files:
 
 	python_ban.py: contains the script that upon banning an ip address, sends me an email
  
- ![](jail_local.png)
+ ![myJaildetails](jail_local.png)
 The details for my custom Jail
 
- ![](myjail.png)
+ ![myJail](myjail.png)
 The regex for checking the logs with the ignored ip address
 
 # Questions
