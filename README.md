@@ -32,6 +32,7 @@ Lab 5b files:
 The details for my custom Jail
 
  ![myJail](myjail.png)
+
 The regex for checking the logs with the ignored ip address
 
 # Questions
