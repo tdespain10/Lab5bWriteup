@@ -31,7 +31,7 @@ Lab 5b files:
  ![myJaildetails](jail_local.png)
 The details for my custom Jail
 
- ![myJail](myjail.png)
+ ![myJail](/myJail.png)
 
 The regex for checking the logs with the ignored ip address
 
